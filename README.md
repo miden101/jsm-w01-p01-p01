@@ -1,7 +1,7 @@
 # 🎬 Cineplex
 
 <p align="center">
-  <img src="public/logo.png" alt="Cineplex Logo" width="180" />
+  <img src="public/favicon.png" alt="Cineplex Logo" width="180" />
 </p>
 
 <p align="center">
